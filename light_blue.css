@@ -266,6 +266,10 @@ td.td_obligatoire a, td.td_renfort a{
   background: #DDD;
 }
 
+.bg-yellow {
+       background: transparent;
+}
+
 #auth > #title {
 	margin-top:120px;
 }
