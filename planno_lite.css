@@ -279,6 +279,13 @@ td.td_obligatoire a, td.td_renfort a{
 }
 
 
+/* Motif d’absence, services et statuts non-modifiables */
+#add-motif-button,
+#add-service-button,
+#add-statut-button {
+        display: none;
+}
+
 @media screen {
     #content, #content-planning{
         margin-top:12px;
